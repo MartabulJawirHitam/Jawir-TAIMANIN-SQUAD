@@ -47,5 +47,7 @@
 ## WIP (Work in Progress)
 
 - Hide UI
-- Atk Multiplier
-- Fast Attack
+- Dumb Enemy
+- Character Editor
+- Skin Changer
+- Infinity Bond
